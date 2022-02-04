@@ -1,8 +1,9 @@
 #include<iostream>
+using namespace std;
 
 int main()
 {
-    std::cout<<"Hello, Youtube!"<<std::endl;
+    cout<<"Hello, Youtube!"<<endl;
 }
 
 // Ctrl + Slash = single line comment
