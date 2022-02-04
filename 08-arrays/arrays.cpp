@@ -8,7 +8,7 @@ using namespace std;
 //     cout<<arr[2]<<endl; //call by indexing
 // }
 
-//Use case 1:
+//Single Dimensional:
 // int main(){
 //     int marks[4];
 
@@ -25,7 +25,7 @@ using namespace std;
     
 // }
 
-//Multidimensional
+//Multidimensional Arrays
 int main(){
     int arr2d [2][3] = {
         {1,2,3}, {4,5,6}
